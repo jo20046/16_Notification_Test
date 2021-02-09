@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">16_Notification_Test</string>
+    <string name="notif1">Send Notification 1</string>
+    <string name="notif2">Send Notification 2</string>
+    <string name="notif3">Send Notification 3</string>
+</resources>
